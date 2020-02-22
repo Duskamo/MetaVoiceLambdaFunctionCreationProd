@@ -1,0 +1,14 @@
+#!/bin/bash
+
+zipFile="$1"
+functionName="$2"
+
+#echo "Creating lambda file..."
+
+aws lambda create-function --region us-east-1 --function-name ${functionName} --zip-file ${zipFile} --role arn:aws:iam::902905436917:role/lambda_basic_execution --handler code.lambda_handler --runtime python2.7 --profile default
+
+aws --region us-east-1 lambda add-permission --function-name ${functionName} --statement-id "1234" --action "lambda:InvokeFunction" --principal "alexa-appkit.amazon.com"
+
+aws lambda get-function --function-name ${functionName} > "./src/files/function_contents.json"
+
+#echo "Lambda creation complete..."

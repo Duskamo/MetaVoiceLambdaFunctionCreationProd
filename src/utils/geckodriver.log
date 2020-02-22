@@ -1,0 +1,37 @@
+1518971540642	geckodriver	INFO	geckodriver 0.19.1
+1518971540646	geckodriver	INFO	Listening on 127.0.0.1:54560
+1518971541776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.FAYTD4rJOu1m"
+*** You are running in headless mode.
+1518971542229	Marionette	INFO	Enabled via --marionette
+1518971543782	Marionette	INFO	Listening on port 43168
+1518971543802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17932, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518972629663	geckodriver	INFO	geckodriver 0.19.1
+1518972629666	geckodriver	INFO	Listening on 127.0.0.1:59262
+1518972630792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.T985bkYAsjNm"
+*** You are running in headless mode.
+1518972631224	Marionette	INFO	Enabled via --marionette
+1518972632807	Marionette	INFO	Listening on port 46362
+1518972632901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18297, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18260, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

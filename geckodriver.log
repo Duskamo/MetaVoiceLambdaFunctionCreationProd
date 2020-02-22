@@ -1,0 +1,1882 @@
+1517777251267	geckodriver	INFO	geckodriver 0.19.1
+1517777251272	geckodriver	INFO	Listening on 127.0.0.1:33295
+1517777252434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aM0hQ4tPyAox"
+1517777253073	Marionette	INFO	Enabled via --marionette
+1517777255301	Marionette	INFO	Listening on port 41777
+1517777255404	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517777496131	geckodriver	INFO	geckodriver 0.19.1
+1517777496138	geckodriver	INFO	Listening on 127.0.0.1:36961
+1517777497364	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qhWv8KX55p6F"
+1517777497918	Marionette	INFO	Enabled via --marionette
+1517777499989	Marionette	INFO	Listening on port 42579
+1517777500025	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517802136877	geckodriver	INFO	geckodriver 0.19.1
+1517802136891	geckodriver	INFO	Listening on 127.0.0.1:50557
+1517802138153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FOh74qJBqyba"
+1517802139079	Marionette	INFO	Enabled via --marionette
+1517802141646	Marionette	INFO	Listening on port 45625
+1517802141792	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517804411148	geckodriver	INFO	geckodriver 0.19.1
+1517804411154	geckodriver	INFO	Listening on 127.0.0.1:38663
+1517804412407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AviS3WkRn2hj"
+1517804412994	Marionette	INFO	Enabled via --marionette
+1517804416083	Marionette	INFO	Listening on port 41695
+1517804416184	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517809492272	geckodriver	INFO	geckodriver 0.19.1
+1517809492282	geckodriver	INFO	Listening on 127.0.0.1:53651
+1517809493615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pGEhsd7y2jRq"
+1517809494684	Marionette	INFO	Enabled via --marionette
+1517809497112	Marionette	INFO	Listening on port 34005
+1517809497174	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517811409313	geckodriver	INFO	geckodriver 0.19.1
+1517811409317	geckodriver	INFO	Listening on 127.0.0.1:41025
+1517811410510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dJYKb49q0PHQ"
+1517811411361	Marionette	INFO	Enabled via --marionette
+1517811413484	Marionette	INFO	Listening on port 37387
+1517811413608	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517811442923	geckodriver	INFO	geckodriver 0.19.1
+1517811442932	geckodriver	INFO	Listening on 127.0.0.1:43861
+1517811444206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hOOc6C07fQNn"
+1517811444981	Marionette	INFO	Enabled via --marionette
+1517811447172	Marionette	INFO	Listening on port 38907
+1517811447289	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517812383610	geckodriver	INFO	geckodriver 0.19.1
+1517812383619	geckodriver	INFO	Listening on 127.0.0.1:43921
+1517812384754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1FFI2J17xhPZ"
+1517812385552	Marionette	INFO	Enabled via --marionette
+1517812387864	Marionette	INFO	Listening on port 34943
+1517812387918	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517812440757	geckodriver	INFO	geckodriver 0.19.1
+1517812440766	geckodriver	INFO	Listening on 127.0.0.1:44161
+1517812441865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XcWw0eurWNIx"
+1517812442743	Marionette	INFO	Enabled via --marionette
+1517812444886	Marionette	INFO	Listening on port 40803
+1517812444969	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517812516409	geckodriver	INFO	geckodriver 0.19.1
+1517812516418	geckodriver	INFO	Listening on 127.0.0.1:56519
+1517812517542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FNRrUoUjFggz"
+1517812518114	Marionette	INFO	Enabled via --marionette
+1517812520287	Marionette	INFO	Listening on port 43231
+1517812520382	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517842516313	geckodriver	INFO	geckodriver 0.19.1
+1517842516320	geckodriver	INFO	Listening on 127.0.0.1:32803
+1517842517571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.J0Ai2zHNErSe"
+1517842518486	Marionette	INFO	Enabled via --marionette
+1517842520865	Marionette	INFO	Listening on port 33813
+1517842520965	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517843129329	geckodriver	INFO	geckodriver 0.19.1
+1517843129339	geckodriver	INFO	Listening on 127.0.0.1:41043
+1517843130428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aMHsBTRHaPsn"
+1517843131055	Marionette	INFO	Enabled via --marionette
+1517843133300	Marionette	INFO	Listening on port 35315
+1517843133473	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21134, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21095, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517844059374	geckodriver	INFO	geckodriver 0.19.1
+1517844059377	geckodriver	INFO	Listening on 127.0.0.1:38173
+1517844060780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lQEBZc23OCje"
+1517844061426	Marionette	INFO	Enabled via --marionette
+1517844063493	Marionette	INFO	Listening on port 46847
+1517844063547	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517844188940	geckodriver	INFO	geckodriver 0.19.1
+1517844188943	geckodriver	INFO	Listening on 127.0.0.1:39021
+1517844190117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.brBROpD0FDaR"
+1517844191089	Marionette	INFO	Enabled via --marionette
+1517844194124	Marionette	INFO	Listening on port 40973
+1517844194268	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22151, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22110, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517844430692	geckodriver	INFO	geckodriver 0.19.1
+1517844430698	geckodriver	INFO	Listening on 127.0.0.1:50913
+1517844431804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RztzWv238O12"
+1517844432513	Marionette	INFO	Enabled via --marionette
+1517844434911	Marionette	INFO	Listening on port 38169
+1517844434953	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517844716313	geckodriver	INFO	geckodriver 0.19.1
+1517844716321	geckodriver	INFO	Listening on 127.0.0.1:47051
+1517844717413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JJ73cC3PVXkp"
+1517844718056	Marionette	INFO	Enabled via --marionette
+1517844720415	Marionette	INFO	Listening on port 43711
+1517844720509	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517844773225	geckodriver	INFO	geckodriver 0.19.1
+1517844773236	geckodriver	INFO	Listening on 127.0.0.1:45909
+1517844774733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8Xo0RcZlvo5u"
+1517844775461	Marionette	INFO	Enabled via --marionette
+1517844778305	Marionette	INFO	Listening on port 33205
+1517844778396	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517844853205	geckodriver	INFO	geckodriver 0.19.1
+1517844853210	geckodriver	INFO	Listening on 127.0.0.1:56715
+1517844854326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.arNNXwQbqVkg"
+1517844855364	Marionette	INFO	Enabled via --marionette
+1517844857678	Marionette	INFO	Listening on port 45015
+1517844857790	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 22760, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517844968336	geckodriver	INFO	geckodriver 0.19.1
+1517844968344	geckodriver	INFO	Listening on 127.0.0.1:48001
+1517844969512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B9iIgqdK5lk2"
+1517844970118	Marionette	INFO	Enabled via --marionette
+1517844972404	Marionette	INFO	Listening on port 34705
+1517844972518	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517845059034	geckodriver	INFO	geckodriver 0.19.1
+1517845059046	geckodriver	INFO	Listening on 127.0.0.1:47865
+1517845060252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MUXY7ZHCgHRm"
+1517845061054	Marionette	INFO	Enabled via --marionette
+1517845063413	Marionette	INFO	Listening on port 37637
+1517845063527	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 23072, Gecko_IOThread] WARNING: pipe error (32): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517846113156	geckodriver	INFO	geckodriver 0.19.1
+1517846113161	geckodriver	INFO	Listening on 127.0.0.1:43655
+1517846114292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.74qLu02dDiuc"
+1517846114829	Marionette	INFO	Enabled via --marionette
+1517846116961	Marionette	INFO	Listening on port 36185
+1517846117044	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517846533022	geckodriver	INFO	geckodriver 0.19.1
+1517846533029	geckodriver	INFO	Listening on 127.0.0.1:45213
+1517846534122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.A8feQL9UboRC"
+1517846534690	Marionette	INFO	Enabled via --marionette
+1517846536806	Marionette	INFO	Listening on port 36197
+1517846536868	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 23773, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517846793671	geckodriver	INFO	geckodriver 0.19.1
+1517846793679	geckodriver	INFO	Listening on 127.0.0.1:36927
+1517846794872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.V2gky6S7mIb7"
+1517846795425	Marionette	INFO	Enabled via --marionette
+1517846797563	Marionette	INFO	Listening on port 45503
+1517846797662	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 24004, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517847598899	geckodriver	INFO	geckodriver 0.19.1
+1517847598909	geckodriver	INFO	Listening on 127.0.0.1:34641
+1517847600165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.otoPjgtjYJWO"
+1517847600764	Marionette	INFO	Enabled via --marionette
+1517847602792	Marionette	INFO	Listening on port 38615
+1517847602862	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 24423, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517847955371	geckodriver	INFO	geckodriver 0.19.1
+1517847955381	geckodriver	INFO	Listening on 127.0.0.1:33521
+1517847956497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OXGRWVQBURRV"
+1517847957047	Marionette	INFO	Enabled via --marionette
+1517847959139	Marionette	INFO	Listening on port 38281
+1517847959257	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517848007130	geckodriver	INFO	geckodriver 0.19.1
+1517848007136	geckodriver	INFO	Listening on 127.0.0.1:37585
+1517848008231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.At9SBXQW34Iv"
+1517848008776	Marionette	INFO	Enabled via --marionette
+1517848010870	Marionette	INFO	Listening on port 42729
+1517848011004	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 24787, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517848226560	geckodriver	INFO	geckodriver 0.19.1
+1517848226569	geckodriver	INFO	Listening on 127.0.0.1:33327
+1517848227743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pMtYon9ZQqrk"
+1517848228549	Marionette	INFO	Enabled via --marionette
+1517848230580	Marionette	INFO	Listening on port 45289
+1517848230684	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 24967, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517849070420	geckodriver	INFO	geckodriver 0.19.1
+1517849070423	geckodriver	INFO	Listening on 127.0.0.1:33863
+1517849071561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SmWJgK0YQqnj"
+1517849072112	Marionette	INFO	Enabled via --marionette
+1517849074157	Marionette	INFO	Listening on port 40307
+1517849074197	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 25371, Gecko_IOThread] WARNING: pipe error (32): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517849271974	geckodriver	INFO	geckodriver 0.19.1
+1517849271981	geckodriver	INFO	Listening on 127.0.0.1:50555
+1517849273102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.97XOQJqM7itq"
+1517849273679	Marionette	INFO	Enabled via --marionette
+1517849275803	Marionette	INFO	Listening on port 43663
+1517849275902	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517849423106	geckodriver	INFO	geckodriver 0.19.1
+1517849423110	geckodriver	INFO	Listening on 127.0.0.1:58263
+1517849424261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.byeqVDR3pxNq"
+1517849425247	Marionette	INFO	Enabled via --marionette
+1517849427972	Marionette	INFO	Listening on port 46675
+1517849428039	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25884, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25844, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517849480749	geckodriver	INFO	geckodriver 0.19.1
+1517849480759	geckodriver	INFO	Listening on 127.0.0.1:33143
+1517849482157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jXiswBbxxVRN"
+1517849483434	Marionette	INFO	Enabled via --marionette
+1517849487293	Marionette	INFO	Listening on port 34709
+1517849487359	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26047, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26009, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517849536290	geckodriver	INFO	geckodriver 0.19.1
+1517849536305	geckodriver	INFO	Listening on 127.0.0.1:33233
+1517849537445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qpHejnDOTnu0"
+1517849538052	Marionette	INFO	Enabled via --marionette
+1517849540189	Marionette	INFO	Listening on port 45397
+1517849540305	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517849759432	geckodriver	INFO	geckodriver 0.19.1
+1517849759437	geckodriver	INFO	Listening on 127.0.0.1:51503
+1517849760573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6TJB736PLDk8"
+1517849761645	Marionette	INFO	Enabled via --marionette
+1517849763888	Marionette	INFO	Listening on port 44497
+1517849763923	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517849823372	geckodriver	INFO	geckodriver 0.19.1
+1517849823378	geckodriver	INFO	Listening on 127.0.0.1:35811
+1517849824503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OsmrcKGZsXBO"
+1517849825031	Marionette	INFO	Enabled via --marionette
+1517849827148	Marionette	INFO	Listening on port 45509
+1517849827237	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 26431, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517850078344	geckodriver	INFO	geckodriver 0.19.1
+1517850078348	geckodriver	INFO	Listening on 127.0.0.1:43741
+1517850079491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.w7kKq9wtdoMO"
+1517850080033	Marionette	INFO	Enabled via --marionette
+1517850082251	Marionette	INFO	Listening on port 37637
+1517850082366	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 26607, Gecko_IOThread] WARNING: pipe error (32): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517850365085	geckodriver	INFO	geckodriver 0.19.1
+1517850365094	geckodriver	INFO	Listening on 127.0.0.1:44241
+1517850366209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zjChHUlOe3Lc"
+1517850366892	Marionette	INFO	Enabled via --marionette
+1517850368970	Marionette	INFO	Listening on port 41005
+1517850369074	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517850424262	geckodriver	INFO	geckodriver 0.19.1
+1517850424266	geckodriver	INFO	Listening on 127.0.0.1:53109
+1517850425393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.64TospDRV30J"
+1517850425931	Marionette	INFO	Enabled via --marionette
+1517850427982	Marionette	INFO	Listening on port 38735
+1517850428079	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517850481955	geckodriver	INFO	geckodriver 0.19.1
+1517850481965	geckodriver	INFO	Listening on 127.0.0.1:38429
+1517850483091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.upjyifaf70UD"
+1517850483771	Marionette	INFO	Enabled via --marionette
+1517850485829	Marionette	INFO	Listening on port 36939
+1517850485960	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 27037, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517850738864	geckodriver	INFO	geckodriver 0.19.1
+1517850738871	geckodriver	INFO	Listening on 127.0.0.1:45309
+1517850739993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qENcYGZxJvoQ"
+1517850740795	Marionette	INFO	Enabled via --marionette
+1517850742951	Marionette	INFO	Listening on port 46083
+1517850743061	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27351, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517850867048	geckodriver	INFO	geckodriver 0.19.1
+1517850867056	geckodriver	INFO	Listening on 127.0.0.1:53215
+1517850868402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vySuINv1kuih"
+1517850869321	Marionette	INFO	Enabled via --marionette
+1517850871432	Marionette	INFO	Listening on port 35847
+1517850871486	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 27418, Gecko_IOThread] WARNING: pipe error (83): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517851358115	geckodriver	INFO	geckodriver 0.19.1
+1517851358127	geckodriver	INFO	Listening on 127.0.0.1:34485
+1517851359237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PXgUls2jg0YJ"
+1517851359922	Marionette	INFO	Enabled via --marionette
+1517851361997	Marionette	INFO	Listening on port 41387
+1517851362095	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27768, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517851586819	geckodriver	INFO	geckodriver 0.19.1
+1517851586824	geckodriver	INFO	Listening on 127.0.0.1:47477
+1517851587918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Nxu5DFe7neYS"
+1517851588589	Marionette	INFO	Enabled via --marionette
+1517851590729	Marionette	INFO	Listening on port 40239
+1517851590754	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27964, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27925, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517851671108	geckodriver	INFO	geckodriver 0.19.1
+1517851671111	geckodriver	INFO	Listening on 127.0.0.1:52565
+1517851672269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oj7pMF2Pr8bV"
+1517851672832	Marionette	INFO	Enabled via --marionette
+1517851674917	Marionette	INFO	Listening on port 45711
+1517851675037	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517851890500	geckodriver	INFO	geckodriver 0.19.1
+1517851890503	geckodriver	INFO	Listening on 127.0.0.1:33855
+1517851891593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eUgWJVPKeytU"
+1517851892155	Marionette	INFO	Enabled via --marionette
+1517851894473	Marionette	INFO	Listening on port 44409
+1517851894579	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 28202, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517852154164	geckodriver	INFO	geckodriver 0.19.1
+1517852154169	geckodriver	INFO	Listening on 127.0.0.1:46875
+1517852155319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AZlGuJcDltQu"
+1517852155872	Marionette	INFO	Enabled via --marionette
+1517852157937	Marionette	INFO	Listening on port 40971
+1517852157975	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28495, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 28456, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517852463219	geckodriver	INFO	geckodriver 0.19.1
+1517852463227	geckodriver	INFO	Listening on 127.0.0.1:47087
+1517852464347	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VFwZk5D99raV"
+1517852465234	Marionette	INFO	Enabled via --marionette
+1517852467340	Marionette	INFO	Listening on port 38545
+1517852467424	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517853072810	geckodriver	INFO	geckodriver 0.19.1
+1517853072817	geckodriver	INFO	Listening on 127.0.0.1:60613
+1517853073942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d7U0SF3aWJzJ"
+1517853074469	Marionette	INFO	Enabled via --marionette
+1517853076508	Marionette	INFO	Listening on port 36997
+1517853076609	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 29039, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 29001, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517853181465	geckodriver	INFO	geckodriver 0.19.1
+1517853181470	geckodriver	INFO	Listening on 127.0.0.1:56785
+1517853182593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.neVGPNtrxoBn"
+1517853183274	Marionette	INFO	Enabled via --marionette
+1517853185545	Marionette	INFO	Listening on port 41163
+1517853185723	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517853320926	geckodriver	INFO	geckodriver 0.19.1
+1517853320939	geckodriver	INFO	Listening on 127.0.0.1:40133
+1517853322123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LgrHCo6iNuH9"
+1517853322691	Marionette	INFO	Enabled via --marionette
+1517853325032	Marionette	INFO	Listening on port 37063
+1517853325062	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517853476103	geckodriver	INFO	geckodriver 0.19.1
+1517853476107	geckodriver	INFO	Listening on 127.0.0.1:48607
+1517853477261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zlF7we2rN68g"
+1517853478241	Marionette	INFO	Enabled via --marionette
+1517853480532	Marionette	INFO	Listening on port 46645
+1517853480662	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517853724513	geckodriver	INFO	geckodriver 0.19.1
+1517853724521	geckodriver	INFO	Listening on 127.0.0.1:59847
+1517853725692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gJkHavsn82xE"
+1517853726405	Marionette	INFO	Enabled via --marionette
+1517853728570	Marionette	INFO	Listening on port 36475
+1517853728709	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517853944456	geckodriver	INFO	geckodriver 0.19.1
+1517853944461	geckodriver	INFO	Listening on 127.0.0.1:59925
+1517853945651	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.i7ygvMJpHITW"
+1517853946543	Marionette	INFO	Enabled via --marionette
+1517853948876	Marionette	INFO	Listening on port 33049
+1517853948919	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517854009330	geckodriver	INFO	geckodriver 0.19.1
+1517854009336	geckodriver	INFO	Listening on 127.0.0.1:48391
+1517854010515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.162ckBuhiSyw"
+1517854011401	Marionette	INFO	Enabled via --marionette
+1517854013688	Marionette	INFO	Listening on port 36741
+1517854013782	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517854284548	geckodriver	INFO	geckodriver 0.19.1
+1517854284553	geckodriver	INFO	Listening on 127.0.0.1:46669
+1517854285710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Y2t6ayNN1vpX"
+1517854286875	Marionette	INFO	Enabled via --marionette
+1517854289224	Marionette	INFO	Listening on port 34899
+1517854289259	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517854758848	geckodriver	INFO	geckodriver 0.19.1
+1517854758853	geckodriver	INFO	Listening on 127.0.0.1:47305
+1517854759994	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JMaIsbVVKAOg"
+1517854761114	Marionette	INFO	Enabled via --marionette
+1517854763605	Marionette	INFO	Listening on port 36605
+1517854763724	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 30370, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517854823330	geckodriver	INFO	geckodriver 0.19.1
+1517854823337	geckodriver	INFO	Listening on 127.0.0.1:38513
+1517854824440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GIeqBdNxxlkR"
+1517854825333	Marionette	INFO	Enabled via --marionette
+1517854827560	Marionette	INFO	Listening on port 44435
+1517854827634	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517855439878	geckodriver	INFO	geckodriver 0.19.1
+1517855439888	geckodriver	INFO	Listening on 127.0.0.1:57931
+1517855440980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.I5VNPsiSZr8b"
+1517855441610	Marionette	INFO	Enabled via --marionette
+1517855443732	Marionette	INFO	Listening on port 39069
+1517855443834	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 30732, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517855492958	geckodriver	INFO	geckodriver 0.19.1
+1517855492966	geckodriver	INFO	Listening on 127.0.0.1:34733
+1517855494103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cImy4kM3Lhbg"
+1517855494674	Marionette	INFO	Enabled via --marionette
+1517855496840	Marionette	INFO	Listening on port 40599
+1517855496975	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 30953, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 30920, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517855657342	geckodriver	INFO	geckodriver 0.19.1
+1517855657352	geckodriver	INFO	Listening on 127.0.0.1:49237
+1517855658482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.foRBS0TZ2W00"
+1517855659850	Marionette	INFO	Enabled via --marionette
+1517855662147	Marionette	INFO	Listening on port 39647
+1517855662261	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517855892681	geckodriver	INFO	geckodriver 0.19.1
+1517855892687	geckodriver	INFO	Listening on 127.0.0.1:59017
+1517855893833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NZm6E56GSZfA"
+1517855894877	Marionette	INFO	Enabled via --marionette
+1517855897205	Marionette	INFO	Listening on port 34571
+1517855897310	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517856022693	geckodriver	INFO	geckodriver 0.19.1
+1517856022702	geckodriver	INFO	Listening on 127.0.0.1:41627
+1517856023831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kIOEDVVawAvP"
+1517856024792	Marionette	INFO	Enabled via --marionette
+1517856027054	Marionette	INFO	Listening on port 40115
+1517856027164	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517856252753	geckodriver	INFO	geckodriver 0.19.1
+1517856252759	geckodriver	INFO	Listening on 127.0.0.1:46879
+1517856253929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NsvIisoAJFrb"
+1517856254877	Marionette	INFO	Enabled via --marionette
+1517856257176	Marionette	INFO	Listening on port 32845
+1517856257282	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Parent 31660, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517856314021	geckodriver	INFO	geckodriver 0.19.1
+1517856314023	geckodriver	INFO	Listening on 127.0.0.1:38449
+1517856315133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XEmtqy4ZrLi0"
+1517856315745	Marionette	INFO	Enabled via --marionette
+1517856317914	Marionette	INFO	Listening on port 35189
+1517856318042	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517856445705	geckodriver	INFO	geckodriver 0.19.1
+1517856445711	geckodriver	INFO	Listening on 127.0.0.1:33327
+1517856446889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0xIkcBzfwB3j"
+1517856447915	Marionette	INFO	Enabled via --marionette
+1517856450265	Marionette	INFO	Listening on port 41133
+1517856450362	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517856607455	geckodriver	INFO	geckodriver 0.19.1
+1517856607461	geckodriver	INFO	Listening on 127.0.0.1:42233
+1517856608606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WSBKmyywPeku"
+1517856609579	Marionette	INFO	Enabled via --marionette
+1517856612174	Marionette	INFO	Listening on port 39337
+1517856612301	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517856758732	geckodriver	INFO	geckodriver 0.19.1
+1517856758739	geckodriver	INFO	Listening on 127.0.0.1:48539
+1517856759964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0jYY7pLI0JS4"
+1517856761073	Marionette	INFO	Enabled via --marionette
+1517856763463	Marionette	INFO	Listening on port 35153
+1517856763569	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517856998883	geckodriver	INFO	geckodriver 0.19.1
+1517856998894	geckodriver	INFO	Listening on 127.0.0.1:60881
+1517857000138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.suKxeVBCqGGv"
+1517857001317	Marionette	INFO	Enabled via --marionette
+1517857003640	Marionette	INFO	Listening on port 35523
+1517857003708	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517857151194	geckodriver	INFO	geckodriver 0.19.1
+1517857151199	geckodriver	INFO	Listening on 127.0.0.1:33279
+1517857152366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Qnrpl1MHhsf6"
+1517857153552	Marionette	INFO	Enabled via --marionette
+1517857155897	Marionette	INFO	Listening on port 38079
+1517857155941	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517857417634	geckodriver	INFO	geckodriver 0.19.1
+1517857417640	geckodriver	INFO	Listening on 127.0.0.1:42083
+1517857418746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tDUMpBLixjCz"
+1517857419516	Marionette	INFO	Enabled via --marionette
+1517857421685	Marionette	INFO	Listening on port 39471
+1517857421720	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517858827375	geckodriver	INFO	geckodriver 0.19.1
+1517858827385	geckodriver	INFO	Listening on 127.0.0.1:44321
+1517858828512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JmFC1sfyojHY"
+1517858829612	Marionette	INFO	Enabled via --marionette
+1517858832328	Marionette	INFO	Listening on port 43887
+1517858832435	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517858876066	geckodriver	INFO	geckodriver 0.19.1
+1517858876071	geckodriver	INFO	Listening on 127.0.0.1:46297
+1517858877430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RNPxWcfZyTNN"
+1517858878519	Marionette	INFO	Enabled via --marionette
+1517858880917	Marionette	INFO	Listening on port 43359
+1517858881035	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517858998654	geckodriver	INFO	geckodriver 0.19.1
+1517858998672	geckodriver	INFO	Listening on 127.0.0.1:38801
+1517858999850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FQxq6jNmSFMd"
+1517859000852	Marionette	INFO	Enabled via --marionette
+1517859003407	Marionette	INFO	Listening on port 42933
+1517859003534	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517871241746	geckodriver	INFO	geckodriver 0.19.1
+1517871241750	geckodriver	INFO	Listening on 127.0.0.1:45423
+1517871242898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vW7JmNkQ6RhS"
+1517871243544	Marionette	INFO	Enabled via --marionette
+1517871245874	Marionette	INFO	Listening on port 43759
+1517871245982	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517871579131	geckodriver	INFO	geckodriver 0.19.1
+1517871579138	geckodriver	INFO	Listening on 127.0.0.1:44363
+1517871580462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ziAYnH8b5wux"
+1517871581278	Marionette	INFO	Enabled via --marionette
+1517871583990	Marionette	INFO	Listening on port 39877
+1517871584041	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517871664510	geckodriver	INFO	geckodriver 0.19.1
+1517871664521	geckodriver	INFO	Listening on 127.0.0.1:49783
+1517871665977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Mz6dwIen9FcQ"
+1517871666697	Marionette	INFO	Enabled via --marionette
+1517871668962	Marionette	INFO	Listening on port 36409
+1517871669083	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3153, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3119, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517872854131	geckodriver	INFO	geckodriver 0.19.1
+1517872854138	geckodriver	INFO	Listening on 127.0.0.1:34665
+1517872855340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1c0UEYcyqUvn"
+1517872856284	Marionette	INFO	Enabled via --marionette
+1517872858567	Marionette	INFO	Listening on port 33015
+1517872858614	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517873021617	geckodriver	INFO	geckodriver 0.19.1
+1517873021624	geckodriver	INFO	Listening on 127.0.0.1:50349
+1517873022735	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8w6r1jBVJKcz"
+1517873023871	Marionette	INFO	Enabled via --marionette
+1517873026125	Marionette	INFO	Listening on port 46155
+1517873026219	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3746, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3706, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517873239726	geckodriver	INFO	geckodriver 0.19.1
+1517873239736	geckodriver	INFO	Listening on 127.0.0.1:38485
+1517873240852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3NruajLeZuGm"
+1517873241472	Marionette	INFO	Enabled via --marionette
+1517873243811	Marionette	INFO	Listening on port 42783
+1517873243939	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3936, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3897, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517873419919	geckodriver	INFO	geckodriver 0.19.1
+1517873419931	geckodriver	INFO	Listening on 127.0.0.1:40393
+1517873421044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bwuon6iUTEnu"
+1517873421850	Marionette	INFO	Enabled via --marionette
+1517873424173	Marionette	INFO	Listening on port 39315
+1517873424200	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517873711625	geckodriver	INFO	geckodriver 0.19.1
+1517873711633	geckodriver	INFO	Listening on 127.0.0.1:54039
+1517873712752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rAH6zGNV4D68"
+1517873713464	Marionette	INFO	Enabled via --marionette
+1517873715688	Marionette	INFO	Listening on port 44653
+1517873715722	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517922471664	geckodriver	INFO	geckodriver 0.19.1
+1517922471676	geckodriver	INFO	Listening on 127.0.0.1:58885
+1517922472974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.f328d6aqiFXp"
+1517922473738	Marionette	INFO	Enabled via --marionette
+1517922475807	Marionette	INFO	Listening on port 36329
+1517922475918	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517923432463	geckodriver	INFO	geckodriver 0.19.1
+1517923432466	geckodriver	INFO	Listening on 127.0.0.1:46447
+1517923433584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EMw7ewBKN6C6"
+1517923434470	Marionette	INFO	Enabled via --marionette
+1517923436722	Marionette	INFO	Listening on port 43671
+1517923436771	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16458, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16419, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517923568533	geckodriver	INFO	geckodriver 0.19.1
+1517923568541	geckodriver	INFO	Listening on 127.0.0.1:42309
+1517923569644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.m4TcY9p97w8P"
+1517923570251	Marionette	INFO	Enabled via --marionette
+1517923572427	Marionette	INFO	Listening on port 46691
+1517923572476	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517923921397	geckodriver	INFO	geckodriver 0.19.1
+1517923921404	geckodriver	INFO	Listening on 127.0.0.1:53891
+1517923922500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pK00L4PLU48m"
+1517923923092	Marionette	INFO	Enabled via --marionette
+1517923925247	Marionette	INFO	Listening on port 44779
+1517923925394	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517924082194	geckodriver	INFO	geckodriver 0.19.1
+1517924082204	geckodriver	INFO	Listening on 127.0.0.1:49175
+1517924083618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FW7h8y2vsa4l"
+1517924084387	Marionette	INFO	Enabled via --marionette
+1517924086519	Marionette	INFO	Listening on port 45461
+1517924086639	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17089, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17050, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517924223281	geckodriver	INFO	geckodriver 0.19.1
+1517924223287	geckodriver	INFO	Listening on 127.0.0.1:53117
+1517924224524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CwoxFYoWCRHQ"
+1517924225367	Marionette	INFO	Enabled via --marionette
+1517924227564	Marionette	INFO	Listening on port 35993
+1517924227670	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517924722425	geckodriver	INFO	geckodriver 0.19.1
+1517924722428	geckodriver	INFO	Listening on 127.0.0.1:45959
+1517924723619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PlbsLEAKke5V"
+1517924724895	Marionette	INFO	Enabled via --marionette
+1517924727687	Marionette	INFO	Listening on port 35199
+1517924727840	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517924894962	geckodriver	INFO	geckodriver 0.19.1
+1517924894966	geckodriver	INFO	Listening on 127.0.0.1:47747
+1517924896263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BMRktPMukbw8"
+1517924897116	Marionette	INFO	Enabled via --marionette
+1517924899315	Marionette	INFO	Listening on port 35583
+1517924899437	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517925425888	geckodriver	INFO	geckodriver 0.19.1
+1517925425900	geckodriver	INFO	Listening on 127.0.0.1:49755
+1517925427056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ry35BV5pDBXH"
+1517925427635	Marionette	INFO	Enabled via --marionette
+1517925429933	Marionette	INFO	Listening on port 45917
+1517925430036	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18237, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18201, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517925624675	geckodriver	INFO	geckodriver 0.19.1
+1517925624684	geckodriver	INFO	Listening on 127.0.0.1:59915
+1517925625786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.N2pn02z3tGpH"
+1517925626365	Marionette	INFO	Enabled via --marionette
+1517925628493	Marionette	INFO	Listening on port 42579
+1517925628518	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517926044968	geckodriver	INFO	geckodriver 0.19.1
+1517926044977	geckodriver	INFO	Listening on 127.0.0.1:53655
+1517926046116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FavKOLazUDcU"
+1517926046770	Marionette	INFO	Enabled via --marionette
+1517926049121	Marionette	INFO	Listening on port 43453
+1517926049155	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19043, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19003, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517928133768	geckodriver	INFO	geckodriver 0.19.1
+1517928133776	geckodriver	INFO	Listening on 127.0.0.1:57477
+1517928134925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ThsDBL2dzQxq"
+1517928135501	Marionette	INFO	Enabled via --marionette
+1517928137579	Marionette	INFO	Listening on port 39501
+1517928137684	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19477, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 19439, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517928243621	geckodriver	INFO	geckodriver 0.19.1
+1517928243627	geckodriver	INFO	Listening on 127.0.0.1:41813
+1517928244983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vnGP8dJevVfz"
+1517928245669	Marionette	INFO	Enabled via --marionette
+1517928247839	Marionette	INFO	Listening on port 40567
+1517928247945	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517928582746	geckodriver	INFO	geckodriver 0.19.1
+1517928582753	geckodriver	INFO	Listening on 127.0.0.1:45313
+1517928583894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.m72ZlneGSkJ3"
+1517928584438	Marionette	INFO	Enabled via --marionette
+1517928586571	Marionette	INFO	Listening on port 46525
+1517928586681	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517928810661	geckodriver	INFO	geckodriver 0.19.1
+1517928810669	geckodriver	INFO	Listening on 127.0.0.1:56777
+1517928811772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.v5Jd4gQICtRd"
+1517928812357	Marionette	INFO	Enabled via --marionette
+1517928814528	Marionette	INFO	Listening on port 43123
+1517928814609	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1517929053232	geckodriver	INFO	geckodriver 0.19.1
+1517929053239	geckodriver	INFO	Listening on 127.0.0.1:38611
+1517929054412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TWOdgQjYHAjN"
+1517929055030	Marionette	INFO	Enabled via --marionette
+1517929057133	Marionette	INFO	Listening on port 44385
+1517929057252	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20247, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20209, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517929310566	geckodriver	INFO	geckodriver 0.19.1
+1517929310575	geckodriver	INFO	Listening on 127.0.0.1:42853
+1517929311740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.54TWvpgutcQv"
+1517929312328	Marionette	INFO	Enabled via --marionette
+1517929314476	Marionette	INFO	Listening on port 42915
+1517929314585	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20431, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 20392, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517929537132	geckodriver	INFO	geckodriver 0.19.1
+1517929537139	geckodriver	INFO	Listening on 127.0.0.1:34599
+1517929538315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y5tLie2f0lKt"
+1517929538920	Marionette	INFO	Enabled via --marionette
+1517929541135	Marionette	INFO	Listening on port 42369
+1517929541171	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20611, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20574, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517930459499	geckodriver	INFO	geckodriver 0.19.1
+1517930459501	geckodriver	INFO	Listening on 127.0.0.1:44837
+1517930460644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QODqZegF1P6b"
+1517930461272	Marionette	INFO	Enabled via --marionette
+1517930463380	Marionette	INFO	Listening on port 42119
+1517930463512	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21051, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21012, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517930586126	geckodriver	INFO	geckodriver 0.19.1
+1517930586136	geckodriver	INFO	Listening on 127.0.0.1:41949
+1517930587288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZAmQsKTN7pFR"
+1517930588434	Marionette	INFO	Enabled via --marionette
+1517930590583	Marionette	INFO	Listening on port 39133
+1517930590719	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21219, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21180, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517931374447	geckodriver	INFO	geckodriver 0.19.1
+1517931374450	geckodriver	INFO	Listening on 127.0.0.1:48071
+1517931375625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6hSpdLMpZnDO"
+1517931376678	Marionette	INFO	Enabled via --marionette
+1517931378829	Marionette	INFO	Listening on port 46255
+1517931378913	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21555, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21514, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517931588733	geckodriver	INFO	geckodriver 0.19.1
+1517931588739	geckodriver	INFO	Listening on 127.0.0.1:44395
+1517931589957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eU6oS4E3kBQG"
+1517931590553	Marionette	INFO	Enabled via --marionette
+1517931592838	Marionette	INFO	Listening on port 38147
+1517931592939	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21771, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21733, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517933472907	geckodriver	INFO	geckodriver 0.19.1
+1517933472910	geckodriver	INFO	Listening on 127.0.0.1:36145
+1517933474140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KoBap8vzXxrC"
+1517933475140	Marionette	INFO	Enabled via --marionette
+1517933477182	Marionette	INFO	Listening on port 36607
+1517933477213	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22460, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22421, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1517934327178	geckodriver	INFO	geckodriver 0.19.1
+1517934327184	geckodriver	INFO	Listening on 127.0.0.1:40495
+1517934328430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MSm3w48kXBRd"
+1517934329189	Marionette	INFO	Enabled via --marionette
+1517934331842	Marionette	INFO	Listening on port 39829
+1517934331884	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22830, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22791, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518104441604	geckodriver	INFO	geckodriver 0.19.1
+1518104441613	geckodriver	INFO	Listening on 127.0.0.1:46055
+1518104442723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.w3TGWtfzs2np"
+1518104443361	Marionette	INFO	Enabled via --marionette
+1518104445555	Marionette	INFO	Listening on port 39725
+1518104445585	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15788, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15750, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518104675090	geckodriver	INFO	geckodriver 0.19.1
+1518104675093	geckodriver	INFO	Listening on 127.0.0.1:50267
+1518104676268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XtwZR7lJg9bz"
+1518104676819	Marionette	INFO	Enabled via --marionette
+1518104679562	Marionette	INFO	Listening on port 40147
+1518104679660	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16094, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16058, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518105342847	geckodriver	INFO	geckodriver 0.19.1
+1518105342856	geckodriver	INFO	Listening on 127.0.0.1:55633
+1518105344028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aTDzN6obDqNq"
+1518105344905	Marionette	INFO	Enabled via --marionette
+1518105347157	Marionette	INFO	Listening on port 37925
+1518105347204	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16492, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16453, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518106941981	geckodriver	INFO	geckodriver 0.19.1
+1518106941988	geckodriver	INFO	Listening on 127.0.0.1:45491
+1518106943400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.6tQbqoBXlnWk"
+*** You are running in headless mode.
+1518106944068	Marionette	INFO	Enabled via --marionette
+1518106945646	Marionette	INFO	Listening on port 36539
+1518106945719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17469, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17510, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518107616121	geckodriver	INFO	geckodriver 0.19.1
+1518107616127	geckodriver	INFO	Listening on 127.0.0.1:43833
+1518107617257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.5kgVDG7KdMJs"
+*** You are running in headless mode.
+1518107617787	Marionette	INFO	Enabled via --marionette
+1518107619283	Marionette	INFO	Listening on port 39349
+1518107619370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518107856719	geckodriver	INFO	geckodriver 0.19.1
+1518107856726	geckodriver	INFO	Listening on 127.0.0.1:37513
+1518107857953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.unZOvBg3kPo8"
+*** You are running in headless mode.
+1518107858545	Marionette	INFO	Enabled via --marionette
+1518107859920	Marionette	INFO	Listening on port 37541
+1518107859972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18037, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17998, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518108321854	geckodriver	INFO	geckodriver 0.19.1
+1518108321858	geckodriver	INFO	Listening on 127.0.0.1:59963
+1518108323035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.XHhsoZ34XjhC"
+*** You are running in headless mode.
+1518108323634	Marionette	INFO	Enabled via --marionette
+1518108325927	Marionette	INFO	Listening on port 34393
+1518108325985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18490, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18446, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518108765548	geckodriver	INFO	geckodriver 0.19.1
+1518108765556	geckodriver	INFO	Listening on 127.0.0.1:39981
+1518108766885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.XVS7b0y691zD"
+*** You are running in headless mode.
+1518108767485	Marionette	INFO	Enabled via --marionette
+1518108769003	Marionette	INFO	Listening on port 36465
+1518108769097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18783, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 18823, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17844, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 17883, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-ox8TnP/firefox-58.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518474124207	geckodriver	INFO	geckodriver 0.19.1
+1518474124211	geckodriver	INFO	Listening on 127.0.0.1:55065
+error: Found argument '-e' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    firefox -v
+
+For more information try --help
+1518779601800	geckodriver	INFO	geckodriver 0.19.1
+1518779601804	geckodriver	INFO	Listening on 127.0.0.1:59314
+1518779602965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.CcKHuP9GQSrG"
+*** You are running in headless mode.
+1518779603420	Marionette	INFO	Enabled via --marionette
+1518779605079	Marionette	INFO	Listening on port 38398
+1518779605174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518780127739	geckodriver	INFO	geckodriver 0.19.1
+1518780127748	geckodriver	INFO	Listening on 127.0.0.1:40832
+1518780128874	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.rAMwBnKgfofb"
+*** You are running in headless mode.
+1518780129530	Marionette	INFO	Enabled via --marionette
+1518780131121	Marionette	INFO	Listening on port 34246
+1518780131186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1506, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1464, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518781066228	geckodriver	INFO	geckodriver 0.19.1
+1518781066232	geckodriver	INFO	Listening on 127.0.0.1:33953
+1518781067353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.0Ye0AZAf66Hi"
+*** You are running in headless mode.
+1518781067775	Marionette	INFO	Enabled via --marionette
+1518781069315	Marionette	INFO	Listening on port 44123
+1518781069361	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2071, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2034, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518781309761	geckodriver	INFO	geckodriver 0.19.1
+1518781309765	geckodriver	INFO	Listening on 127.0.0.1:53374
+1518781310886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.7eI5rgkSsXxs"
+*** You are running in headless mode.
+1518781311347	Marionette	INFO	Enabled via --marionette
+1518781312946	Marionette	INFO	Listening on port 33449
+1518781313004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2188, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2232, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518781751086	geckodriver	INFO	geckodriver 0.19.1
+1518781751089	geckodriver	INFO	Listening on 127.0.0.1:38942
+1518781752208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.czghE1d4ABu4"
+*** You are running in headless mode.
+1518781752638	Marionette	INFO	Enabled via --marionette
+1518781754217	Marionette	INFO	Listening on port 45389
+1518781754317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2365, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2403, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518782399416	geckodriver	INFO	geckodriver 0.19.1
+1518782399419	geckodriver	INFO	Listening on 127.0.0.1:50640
+1518782400545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.1di5L5phhLtF"
+*** You are running in headless mode.
+1518782400976	Marionette	INFO	Enabled via --marionette
+1518782402549	Marionette	INFO	Listening on port 34765
+1518782402559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2543, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2583, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518783648370	geckodriver	INFO	geckodriver 0.19.1
+1518783648373	geckodriver	INFO	Listening on 127.0.0.1:57815
+1518783649496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.jSbiMTDXLVqI"
+*** You are running in headless mode.
+1518783649924	Marionette	INFO	Enabled via --marionette
+1518783651520	Marionette	INFO	Listening on port 35033
+1518783651604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3122, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3163, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518784334436	geckodriver	INFO	geckodriver 0.19.1
+1518784334439	geckodriver	INFO	Listening on 127.0.0.1:56725
+1518784335567	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.QhhxGn5jyOhu"
+*** You are running in headless mode.
+1518784336002	Marionette	INFO	Enabled via --marionette
+1518784337580	Marionette	INFO	Listening on port 39157
+1518784337679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3693, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3733, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518784772898	geckodriver	INFO	geckodriver 0.19.1
+1518784772901	geckodriver	INFO	Listening on 127.0.0.1:49877
+1518784774029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.MUIg9ldOdmcX"
+*** You are running in headless mode.
+1518784774459	Marionette	INFO	Enabled via --marionette
+1518784775964	Marionette	INFO	Listening on port 42935
+1518784776055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4133, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518786174880	geckodriver	INFO	geckodriver 0.19.1
+1518786174883	geckodriver	INFO	Listening on 127.0.0.1:59023
+1518786176005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.izJL1YP1P2ni"
+*** You are running in headless mode.
+1518786176429	Marionette	INFO	Enabled via --marionette
+1518786177965	Marionette	INFO	Listening on port 32963
+1518786178015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5125, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518786890947	geckodriver	INFO	geckodriver 0.19.1
+1518786890951	geckodriver	INFO	Listening on 127.0.0.1:60286
+1518786892081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.epESQQLW2Bqf"
+*** You are running in headless mode.
+1518786892519	Marionette	INFO	Enabled via --marionette
+1518786894103	Marionette	INFO	Listening on port 45626
+1518786894190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5482, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518788136237	geckodriver	INFO	geckodriver 0.19.1
+1518788136240	geckodriver	INFO	Listening on 127.0.0.1:33655
+1518788137367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.oy2OaZZ1gHJC"
+*** You are running in headless mode.
+1518788137801	Marionette	INFO	Enabled via --marionette
+1518788139383	Marionette	INFO	Listening on port 39197
+1518788139479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6106, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6147, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518788440591	geckodriver	INFO	geckodriver 0.19.1
+1518788440595	geckodriver	INFO	Listening on 127.0.0.1:36963
+1518788441724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.bbdtcgsagnXx"
+*** You are running in headless mode.
+1518788442158	Marionette	INFO	Enabled via --marionette
+1518788443552	Marionette	INFO	Listening on port 42886
+1518788443641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6491, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 6449, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518788837120	geckodriver	INFO	geckodriver 0.19.1
+1518788837123	geckodriver	INFO	Listening on 127.0.0.1:33286
+1518788838252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.D4vIAzugJO3w"
+*** You are running in headless mode.
+1518788838684	Marionette	INFO	Enabled via --marionette
+1518788840253	Marionette	INFO	Listening on port 41135
+1518788840275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 6797, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518789279054	geckodriver	INFO	geckodriver 0.19.1
+1518789279057	geckodriver	INFO	Listening on 127.0.0.1:47281
+1518789280185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.oixSqSTXDDNO"
+*** You are running in headless mode.
+1518789280610	Marionette	INFO	Enabled via --marionette
+1518789282164	Marionette	INFO	Listening on port 38691
+1518789282195	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7143, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518884009803	geckodriver	INFO	geckodriver 0.19.1
+1518884009808	geckodriver	INFO	Listening on 127.0.0.1:48625
+1518884010975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.AHUWRGbw86VH"
+*** You are running in headless mode.
+1518884011661	Marionette	INFO	Enabled via --marionette
+1518884013239	Marionette	INFO	Listening on port 46403
+1518884013301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518884132989	geckodriver	INFO	geckodriver 0.19.1
+1518884132992	geckodriver	INFO	Listening on 127.0.0.1:52379
+1518884134162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.M95301IDD2d5"
+*** You are running in headless mode.
+1518884135056	Marionette	INFO	Enabled via --marionette
+1518884139212	Marionette	INFO	Listening on port 33571
+1518884140114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518884319652	geckodriver	INFO	geckodriver 0.19.1
+1518884319657	geckodriver	INFO	Listening on 127.0.0.1:47997
+1518884320806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.1vYM3bXptDyS"
+*** You are running in headless mode.
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518884321844	Marionette	INFO	Enabled via --marionette
+1518884323594	Marionette	INFO	Listening on port 39227
+1518884323661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518884682220	geckodriver	INFO	geckodriver 0.19.1
+1518884682223	geckodriver	INFO	Listening on 127.0.0.1:42670
+1518884683343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.UbCx4lAhoFAd"
+*** You are running in headless mode.
+1518884683769	Marionette	INFO	Enabled via --marionette
+1518884685319	Marionette	INFO	Listening on port 42872
+1518884685357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9362, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9325, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518885032364	geckodriver	INFO	geckodriver 0.19.1
+1518885032367	geckodriver	INFO	Listening on 127.0.0.1:41228
+1518885033493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.WgjwsbwlqQba"
+*** You are running in headless mode.
+1518885033938	Marionette	INFO	Enabled via --marionette
+1518885035450	Marionette	INFO	Listening on port 36087
+1518885035506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9512, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518885571086	geckodriver	INFO	geckodriver 0.19.1
+1518885571091	geckodriver	INFO	Listening on 127.0.0.1:39770
+1518885572215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.GFQcczDbpyYK"
+*** You are running in headless mode.
+1518885572634	Marionette	INFO	Enabled via --marionette
+1518885574177	Marionette	INFO	Listening on port 43407
+1518885574232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9967, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 9925, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518893070763	geckodriver	INFO	geckodriver 0.19.1
+1518893070766	geckodriver	INFO	Listening on 127.0.0.1:38453
+1518893071893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.OLX3lUbZDhPC"
+*** You are running in headless mode.
+1518893072334	Marionette	INFO	Enabled via --marionette
+1518893073821	Marionette	INFO	Listening on port 34876
+1518893073901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10348, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518900422061	geckodriver	INFO	geckodriver 0.19.1
+1518900422065	geckodriver	INFO	Listening on 127.0.0.1:42656
+1518900423185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.ycAI9vsgRAJL"
+*** You are running in headless mode.
+1518900423624	Marionette	INFO	Enabled via --marionette
+1518900425214	Marionette	INFO	Listening on port 38634
+1518900425294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10701, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10742, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518901175067	geckodriver	INFO	geckodriver 0.19.1
+1518901175070	geckodriver	INFO	Listening on 127.0.0.1:42996
+1518901176196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.bwuJOHfrS8Ti"
+*** You are running in headless mode.
+1518901176630	Marionette	INFO	Enabled via --marionette
+1518901178254	Marionette	INFO	Listening on port 34282
+1518901178334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518901293628	geckodriver	INFO	geckodriver 0.19.1
+1518901293635	geckodriver	INFO	Listening on 127.0.0.1:40256
+1518901294785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.yVTDDjAimHX8"
+*** You are running in headless mode.
+1518901295564	Marionette	INFO	Enabled via --marionette
+1518901297326	Marionette	INFO	Listening on port 34825
+1518901297406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518901503094	geckodriver	INFO	geckodriver 0.19.1
+1518901503100	geckodriver	INFO	Listening on 127.0.0.1:42627
+1518901504253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.pdz7FpYBwDXy"
+*** You are running in headless mode.
+1518901505098	Marionette	INFO	Enabled via --marionette
+1518901506907	Marionette	INFO	Listening on port 33570
+1518901506982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518901780029	geckodriver	INFO	geckodriver 0.19.1
+1518901780036	geckodriver	INFO	Listening on 127.0.0.1:60645
+1518901781177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.V5wFvYsUBz0B"
+*** You are running in headless mode.
+1518901781996	Marionette	INFO	Enabled via --marionette
+1518901783774	Marionette	INFO	Listening on port 40590
+1518901783808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518901995420	geckodriver	INFO	geckodriver 0.19.1
+1518901995426	geckodriver	INFO	Listening on 127.0.0.1:38400
+1518901996582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.6EhhWekrNtld"
+*** You are running in headless mode.
+1518901997487	Marionette	INFO	Enabled via --marionette
+1518901999281	Marionette	INFO	Listening on port 35767
+1518901999325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1518902241499	geckodriver	INFO	geckodriver 0.19.1
+1518902241506	geckodriver	INFO	Listening on 127.0.0.1:43116
+1518902242653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.INtweYs7mv2D"
+*** You are running in headless mode.
+1518902243519	Marionette	INFO	Enabled via --marionette
+1518902245343	Marionette	INFO	Listening on port 46779
+1518902245374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Child 11755, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518902657085	geckodriver	INFO	geckodriver 0.19.1
+1518902657092	geckodriver	INFO	Listening on 127.0.0.1:52212
+1518902658232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.FpbYjJ7XNGFx"
+*** You are running in headless mode.
+1518902659111	Marionette	INFO	Enabled via --marionette
+1518902660928	Marionette	INFO	Listening on port 43127
+1518902660957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11992, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11950, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518903202927	geckodriver	INFO	geckodriver 0.19.1
+1518903202934	geckodriver	INFO	Listening on 127.0.0.1:40284
+1518903204089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.v4GEts3nG3RJ"
+*** You are running in headless mode.
+1518903204781	Marionette	INFO	Enabled via --marionette
+1518903206398	Marionette	INFO	Listening on port 43931
+1518903206515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12206, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518903691656	geckodriver	INFO	geckodriver 0.19.1
+1518903691660	geckodriver	INFO	Listening on 127.0.0.1:54529
+1518903692782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.iZBgL3fdVUlu"
+*** You are running in headless mode.
+1518903693210	Marionette	INFO	Enabled via --marionette
+1518903694785	Marionette	INFO	Listening on port 36881
+1518903694791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12503, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518903974342	geckodriver	INFO	geckodriver 0.19.1
+1518903974345	geckodriver	INFO	Listening on 127.0.0.1:36840
+1518903975471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.BCxCKj6GxS7W"
+*** You are running in headless mode.
+1518903975903	Marionette	INFO	Enabled via --marionette
+1518903977454	Marionette	INFO	Listening on port 42372
+1518903977490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12776, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12736, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12736, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 12736, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518905678283	geckodriver	INFO	geckodriver 0.19.1
+1518905678286	geckodriver	INFO	Listening on 127.0.0.1:45452
+1518905679408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.VejZi1Kr5o08"
+*** You are running in headless mode.
+1518905679834	Marionette	INFO	Enabled via --marionette
+1518905681302	Marionette	INFO	Listening on port 38752
+1518905681321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13061, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13102, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518905714731	geckodriver	INFO	geckodriver 0.19.1
+1518905714743	geckodriver	INFO	Listening on 127.0.0.1:51085
+1518905715863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.nn8QiRm9yKrG"
+*** You are running in headless mode.
+1518905716303	Marionette	INFO	Enabled via --marionette
+1518905717893	Marionette	INFO	Listening on port 43527
+1518905717975	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13226, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13190, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518905854757	geckodriver	INFO	geckodriver 0.19.1
+1518905854761	geckodriver	INFO	Listening on 127.0.0.1:49994
+1518905855887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.YQI1leHTVbaW"
+*** You are running in headless mode.
+1518905856314	Marionette	INFO	Enabled via --marionette
+1518905857808	Marionette	INFO	Listening on port 35979
+1518905857909	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 13515, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 13565, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518937271316	geckodriver	INFO	geckodriver 0.19.1
+1518937271320	geckodriver	INFO	Listening on 127.0.0.1:41627
+1518937272447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.t7E8lK2YLzDp"
+*** You are running in headless mode.
+1518937273043	Marionette	INFO	Enabled via --marionette
+1518937274814	Marionette	INFO	Listening on port 34642
+1518937274874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14755, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14710, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518937459055	geckodriver	INFO	geckodriver 0.19.1
+1518937459060	geckodriver	INFO	Listening on 127.0.0.1:33524
+1518937460208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.hP6yFucObzaZ"
+*** You are running in headless mode.
+1518937460828	Marionette	INFO	Enabled via --marionette
+1518937462423	Marionette	INFO	Listening on port 33252
+1518937462525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 14913, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518938372121	geckodriver	INFO	geckodriver 0.19.1
+1518938372125	geckodriver	INFO	Listening on 127.0.0.1:58672
+1518938373247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.jFxRDq3Hx1vl"
+*** You are running in headless mode.
+1518938373678	Marionette	INFO	Enabled via --marionette
+1518938375225	Marionette	INFO	Listening on port 45342
+1518938375258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15220, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518965415243	geckodriver	INFO	geckodriver 0.19.1
+1518965415247	geckodriver	INFO	Listening on 127.0.0.1:49318
+1518965416375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.MSS5io3SrBK2"
+*** You are running in headless mode.
+1518965416808	Marionette	INFO	Enabled via --marionette
+1518965418309	Marionette	INFO	Listening on port 35313
+1518965418385	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16073, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518965987070	geckodriver	INFO	geckodriver 0.19.1
+1518965987073	geckodriver	INFO	Listening on 127.0.0.1:35246
+1518965988201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.huSlAYCl1Z6k"
+*** You are running in headless mode.
+1518965988630	Marionette	INFO	Enabled via --marionette
+1518965990066	Marionette	INFO	Listening on port 35602
+1518965990119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16357, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518969530405	geckodriver	INFO	geckodriver 0.19.1
+1518969530409	geckodriver	INFO	Listening on 127.0.0.1:50375
+1518969531574	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.sMkNV79OW0DX"
+*** You are running in headless mode.
+1518969532325	Marionette	INFO	Enabled via --marionette
+1518969534007	Marionette	INFO	Listening on port 41673
+1518969534097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16606, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518970013619	geckodriver	INFO	geckodriver 0.19.1
+1518970013623	geckodriver	INFO	Listening on 127.0.0.1:36525
+1518970014772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.RrE7KdJ3BcaD"
+*** You are running in headless mode.
+1518970015394	Marionette	INFO	Enabled via --marionette
+1518970016958	Marionette	INFO	Listening on port 43285
+1518970016982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17192, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518970498583	geckodriver	INFO	geckodriver 0.19.1
+1518970498586	geckodriver	INFO	Listening on 127.0.0.1:58858
+1518970499713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.RmHg0MuvSbLd"
+*** You are running in headless mode.
+1518970500138	Marionette	INFO	Enabled via --marionette
+1518970501642	Marionette	INFO	Listening on port 36748
+1518970501722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17501, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519743214614	geckodriver	INFO	geckodriver 0.19.1
+1519743214617	geckodriver	INFO	Listening on 127.0.0.1:59127
+1519743668139	geckodriver	INFO	geckodriver 0.19.1
+1519743668142	geckodriver	INFO	Listening on 127.0.0.1:33462
+1519744302312	geckodriver	INFO	geckodriver 0.19.1
+1519744302315	geckodriver	INFO	Listening on 127.0.0.1:38728
+1519744399030	geckodriver	INFO	geckodriver 0.19.1
+1519744399033	geckodriver	INFO	Listening on 127.0.0.1:55480
+1519744718147	geckodriver	INFO	geckodriver 0.19.1
+1519744718150	geckodriver	INFO	Listening on 127.0.0.1:58118
+1519744719246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.sE4AKMAhyYGM"
+*** You are running in headless mode.
+1519744719598	Marionette	INFO	Enabled via --marionette
+1519744720633	Marionette	INFO	Listening on port 34903
+1519744720660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+(/usr/lib/firefox/firefox:24670): dconf-CRITICAL **: unable to create directory '/home/ubuntu/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:24670): dconf-CRITICAL **: unable to create directory '/home/ubuntu/.cache/dconf': Permission denied.  dconf will not work properly.
+
+(/usr/lib/firefox/firefox:24670): dconf-CRITICAL **: unable to create directory '/home/ubuntu/.cache/dconf': Permission denied.  dconf will not work properly.
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24712, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1519744924190	geckodriver	INFO	geckodriver 0.19.1
+1519744924193	geckodriver	INFO	Listening on 127.0.0.1:33216
+1519744925289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-profile" "/tmp/rust_mozprofile.g8lDE2B1YNT4"
+*** You are running in headless mode.
+1519744925654	Marionette	INFO	Enabled via --marionette
+1519744926713	Marionette	INFO	Listening on port 45928
+1519744926801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://m.media-amazon.com/images/G/01/x-locale/common/login/fwcim._CB513135890_.js, line 18: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24877, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24831, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-9j9NY8/firefox-58.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

@@ -1,0 +1,20 @@
+{
+    "Configuration": {
+        "LastModified": "2018-03-26T23:41:02.731+0000",
+        "FunctionName": "kmo_test12_test12",
+        "Description": "",
+        "Role": "arn:aws:iam::902905436917:role/lambda_basic_execution",
+        "CodeSha256": "fr2D1i65Z9oEwW4pAh6hVtzUHIiMe3SDtrCNU9X7KjY=",
+        "Timeout": 3,
+        "Version": "$LATEST",
+        "CodeSize": 1507,
+        "MemorySize": 128,
+        "Runtime": "python2.7",
+        "FunctionArn": "arn:aws:lambda:us-east-1:902905436917:function:kmo_test12_test12",
+        "Handler": "code.lambda_handler"
+    },
+    "Code": {
+        "RepositoryType": "S3",
+        "Location": "https://prod-04-2014-tasks.s3.amazonaws.com/snapshots/902905436917/kmo_test12_test12-5a0bbe69-0029-4ce0-9e21-281ca027958b?versionId=M9FX.wg6rf_BjMm__XHHlITu0VWQBfVX&X-Amz-Security-Token=FQoDYXdzEH8aDE%2BpTUsKBH82qjerPCK3A6JrAvoe5SqfmQo7amUQVeexhtscIistDwpklBQqwMSbh2lvEobmKglmgd5HvzCc86WLyJVuj%2FVl0zOMnGepQese52yTOLeY1Pckzj7CEkgOL9NrYqU2pOXH4KTuIoCIRTHhqUkGO7zoPbPN4Db9HlO6HSM%2FPQhS1ZZ17687yHbfuDy6ReyqDFDGapdS1p022GzDx2VYhWFsHbs8GqDZBorkPWv0vbe9hfY%2Fal5DAa1%2BYQi2unh9a8xrSETLj2BDppvdkWy6wlxPUs5UEXoJBJI7iFDQg5IBodyvc0AI94Ac49D96YETgmDxnSb9ysvH5R6zkDoaldeTEjG15pfjo0lhdIn%2FXg%2BQqjAKX2v0SPw6w1VPeeEx%2FYmIQjw3yeDF12uPOjyI83kYa6neAxKT2qVJNoA2pwbZOhOx7IxToSlW3mSO18Qq83TO1BOgJGIxEL48BSwT0kS8l4vPiusLaNrxfRpjQMrIfSohMqtxIrvyWctTyPD0MnGMQd8Wm4ZA1azyALzdk6IBVCWppJA7zPDwEk5kaDRC4NqETR1njGaWqoVzHdmZkh4ycCPfTRXWcC%2FPt3%2BR%2Bocon93l1QU%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20180326T234103Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Credential=ASIAI7LYLCF5N7TVBPCQ%2F20180326%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=eb2d1e46762a68789c97301c19d8f26bc5a32780ce59df1d9cbc0ecc4724e940"
+    }
+}
